@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truonghuynhquy/nodejs_blog_f8.git"
+  },
+  "keywords": [
+    "f8",
+    "nodejs_f8",
+    "blog",
+    "nodejs"
+  ],
+  "author": "h1n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truonghuynhquy/nodejs_blog_f8/issues"
+  },
+  "homepage": "https://github.com/truonghuynhquy/nodejs_blog_f8#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
